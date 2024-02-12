@@ -82,14 +82,14 @@ The outcomes of our analysis,
 Contributions to this
 
 ## License
-This project is under licensed - "....................."
+This project is under licensed - "MIT License"
 
 See Details-
 
 Permissions of this strong copyleft license are conditioned on making available the complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 ## Contact
-I would be happy with your suggestions.Feel free to contact us at - pramod.maurya12321@gmail.com 
+I would be happy with your suggestions. Feel free to contact us at - pramod.maurya12321@gmail.com 
 
 
 
